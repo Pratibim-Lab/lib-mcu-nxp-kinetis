@@ -1,0 +1,17 @@
+{
+  "id": "MCU_NXP_Kinetis/MKL03Z8VFG4:MKL03Z8VFG4",
+  "name": "MKL03Z8VFG4",
+  "library": "MCU_NXP_Kinetis",
+  "file": "MCU_NXP_Kinetis.kicad_symdir/MKL03Z8VFG4.kicad_sym",
+  "description": "Kinetis KL03 series, 48-MHz/32-bit ARM Cortex-M0+, 8 kB flash, 2 kB SRAM, QFN-16",
+  "datasheet": "http://www.nxp.com/docs/en/data-sheet/KL03P24M48SF0.pdf",
+  "keywords": "Kinetis KL03 ARM Cortex M0+",
+  "footprint": "Package_DFN_QFN:QFN-16-1EP_3x3mm_P0.5mm_EP1.9x1.9mm",
+  "extends": "MKL03Z32VFG4",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-nxp-kinetis@master/parts/MKL03Z8VFG4/",
+  "part_path": "parts/MKL03Z8VFG4",
+  "symbol_file": "parts/MKL03Z8VFG4/MKL03Z8VFG4.kicad_sym",
+  "source_library": "MCU_NXP_Kinetis.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:07:27.061Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "MCU_NXP_Kinetis/MK26FN2M0VMD18:MK26FN2M0VMD18",
+  "name": "MK26FN2M0VMD18",
+  "library": "MCU_NXP_Kinetis",
+  "file": "MCU_NXP_Kinetis.kicad_symdir/MK26FN2M0VMD18.kicad_sym",
+  "description": "Kinetis K26 series, 180-MHz/32-bit ARM Cortex-M4, 2048 kB flash, 256 kB SRAM, USB HS+FS Device/OTG, MAPBGA-144",
+  "datasheet": "https://www.nxp.com/docs/en/data-sheet/K26P169M180SF5.pdf",
+  "keywords": "Kinetis K26 ARM Cortex M4",
+  "footprint": "Package_BGA:BGA-144_13.0x13.0mm_Layout12x12_P1.0mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-nxp-kinetis@master/parts/MK26FN2M0VMD18/",
+  "part_path": "parts/MK26FN2M0VMD18",
+  "symbol_file": "parts/MK26FN2M0VMD18/MK26FN2M0VMD18.kicad_sym",
+  "source_library": "MCU_NXP_Kinetis.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:07:26.891Z"
+}

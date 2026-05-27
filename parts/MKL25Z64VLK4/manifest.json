@@ -1,0 +1,17 @@
+{
+  "id": "MCU_NXP_Kinetis/MKL25Z64VLK4:MKL25Z64VLK4",
+  "name": "MKL25Z64VLK4",
+  "library": "MCU_NXP_Kinetis",
+  "file": "MCU_NXP_Kinetis.kicad_symdir/MKL25Z64VLK4.kicad_sym",
+  "description": "Kinetis KL25 series, 48-MHz/32-bit ARM Cortex-M0+, 64 kB flash, 8 kB SRAM, USB FS Device/OTG, LQFP-80",
+  "datasheet": "http://www.nxp.com/docs/en/data-sheet/KL25P80M48SF0.pdf",
+  "keywords": "Kinetis KL25 ARM Cortex M0+",
+  "footprint": "Package_QFP:LQFP-80_12x12mm_P0.5mm",
+  "extends": "MKL25Z128VLK4",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-nxp-kinetis@master/parts/MKL25Z64VLK4/",
+  "part_path": "parts/MKL25Z64VLK4",
+  "symbol_file": "parts/MKL25Z64VLK4/MKL25Z64VLK4.kicad_sym",
+  "source_library": "MCU_NXP_Kinetis.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:07:27.503Z"
+}

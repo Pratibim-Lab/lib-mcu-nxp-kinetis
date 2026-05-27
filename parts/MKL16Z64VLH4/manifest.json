@@ -1,0 +1,17 @@
+{
+  "id": "MCU_NXP_Kinetis/MKL16Z64VLH4:MKL16Z64VLH4",
+  "name": "MKL16Z64VLH4",
+  "library": "MCU_NXP_Kinetis",
+  "file": "MCU_NXP_Kinetis.kicad_symdir/MKL16Z64VLH4.kicad_sym",
+  "description": "Kinetis KL16 series, 48-MHz/32-bit ARM Cortex-M0+, 64 kB flash, 8 kB SRAM, I²S, TSI, LQFP-64",
+  "datasheet": "http://www.nxp.com/docs/en/data-sheet/KL16P64M48SF5.pdf",
+  "keywords": "Kinetis KL16 ARM Cortex M0+",
+  "footprint": "Package_QFP:LQFP-64_10x10mm_P0.5mm",
+  "extends": "MKL16Z128VLH4",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-nxp-kinetis@master/parts/MKL16Z64VLH4/",
+  "part_path": "parts/MKL16Z64VLH4",
+  "symbol_file": "parts/MKL16Z64VLH4/MKL16Z64VLH4.kicad_sym",
+  "source_library": "MCU_NXP_Kinetis.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:07:27.376Z"
+}

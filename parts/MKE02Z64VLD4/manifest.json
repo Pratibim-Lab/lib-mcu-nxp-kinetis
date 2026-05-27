@@ -1,0 +1,17 @@
+{
+  "id": "MCU_NXP_Kinetis/MKE02Z64VLD4:MKE02Z64VLD4",
+  "name": "MKE02Z64VLD4",
+  "library": "MCU_NXP_Kinetis",
+  "file": "MCU_NXP_Kinetis.kicad_symdir/MKE02Z64VLD4.kicad_sym",
+  "description": "40 MHz, Entry-Level, High-Robustness, ESD/EMC performance Microcontroller, Cortex-M0+ core, 64kB Flash, 4kB RAM, LQFP-44",
+  "datasheet": "https://www.nxp.com/files-static/microcontrollers/doc/ref_manual/MKE02P64M40SF0RM.pdf",
+  "keywords": "NXP Kinetis Microcontroller",
+  "footprint": "Package_QFP:LQFP-44_10x10mm_P0.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-nxp-kinetis@master/parts/MKE02Z64VLD4/",
+  "part_path": "parts/MKE02Z64VLD4",
+  "symbol_file": "parts/MKE02Z64VLD4/MKE02Z64VLD4.kicad_sym",
+  "source_library": "MCU_NXP_Kinetis.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:07:26.931Z"
+}

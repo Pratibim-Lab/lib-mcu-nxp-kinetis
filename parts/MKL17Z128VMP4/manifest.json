@@ -1,0 +1,17 @@
+{
+  "id": "MCU_NXP_Kinetis/MKL17Z128VMP4:MKL17Z128VMP4",
+  "name": "MKL17Z128VMP4",
+  "library": "MCU_NXP_Kinetis",
+  "file": "MCU_NXP_Kinetis.kicad_symdir/MKL17Z128VMP4.kicad_sym",
+  "description": "Kinetis KL17 series, 48-MHz/32-bit ARM Cortex-M0+, 128 kB flash, 32 kB SRAM, FlexIO, MAPBGA-64",
+  "datasheet": "http://www.nxp.com/docs/en/data-sheet/KL17P64M48SF6.pdf",
+  "keywords": "Kinetis KL17 ARM Cortex M0+",
+  "footprint": "Package_BGA:XFBGA-64_5.0x5.0mm_Layout8x8_P0.5mm",
+  "extends": "MKL17Z256VMP4",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-nxp-kinetis@master/parts/MKL17Z128VMP4/",
+  "part_path": "parts/MKL17Z128VMP4",
+  "symbol_file": "parts/MKL17Z128VMP4/MKL17Z128VMP4.kicad_sym",
+  "source_library": "MCU_NXP_Kinetis.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:07:27.397Z"
+}

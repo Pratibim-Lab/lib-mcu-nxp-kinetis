@@ -1,0 +1,17 @@
+{
+  "id": "MCU_NXP_Kinetis/MKL17Z32VLH4:MKL17Z32VLH4",
+  "name": "MKL17Z32VLH4",
+  "library": "MCU_NXP_Kinetis",
+  "file": "MCU_NXP_Kinetis.kicad_symdir/MKL17Z32VLH4.kicad_sym",
+  "description": "Kinetis KL17 series, 48-MHz/32-bit ARM Cortex-M0+, 32 kB flash, 8 kB SRAM, FlexIO, LQFP-64",
+  "datasheet": "http://www.nxp.com/docs/en/data-sheet/KL17P64M48SF2.pdf",
+  "keywords": "Kinetis KL17 ARM Cortex M0+",
+  "footprint": "Package_QFP:LQFP-64_10x10mm_P0.5mm",
+  "extends": "MKL17Z64VLH4",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-nxp-kinetis@master/parts/MKL17Z32VLH4/",
+  "part_path": "parts/MKL17Z32VLH4",
+  "symbol_file": "parts/MKL17Z32VLH4/MKL17Z32VLH4.kicad_sym",
+  "source_library": "MCU_NXP_Kinetis.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:07:27.433Z"
+}

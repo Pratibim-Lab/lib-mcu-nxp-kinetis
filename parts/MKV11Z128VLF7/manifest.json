@@ -1,0 +1,17 @@
+{
+  "id": "MCU_NXP_Kinetis/MKV11Z128VLF7:MKV11Z128VLF7",
+  "name": "MKV11Z128VLF7",
+  "library": "MCU_NXP_Kinetis",
+  "file": "MCU_NXP_Kinetis.kicad_symdir/MKV11Z128VLF7.kicad_sym",
+  "description": "Kinetis KV11 series, 75-MHz/32-bit ARM Cortex-M0+, 128 kB flash, 16 kB RAM, Entry-Level, Real-time Motor Control, LQFP-48",
+  "datasheet": "https://www.nxp.com/docs/en/data-sheet/KV11P64M75.pdf",
+  "keywords": "Kinetis KV11 ARM Cortex M0+",
+  "footprint": "Package_QFP:LQFP-48_7x7mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-nxp-kinetis@master/parts/MKV11Z128VLF7/",
+  "part_path": "parts/MKV11Z128VLF7",
+  "symbol_file": "parts/MKV11Z128VLF7/MKV11Z128VLF7.kicad_sym",
+  "source_library": "MCU_NXP_Kinetis.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:07:27.687Z"
+}

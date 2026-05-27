@@ -1,0 +1,17 @@
+{
+  "id": "MCU_NXP_Kinetis/MKL26Z32VLH4:MKL26Z32VLH4",
+  "name": "MKL26Z32VLH4",
+  "library": "MCU_NXP_Kinetis",
+  "file": "MCU_NXP_Kinetis.kicad_symdir/MKL26Z32VLH4.kicad_sym",
+  "description": "Kinetis KL26 series, 48-MHz/32-bit ARM Cortex-M0+, 32 kB flash, 4 kB SRAM, USB FS Device/OTG, LQFP-64",
+  "datasheet": "http://www.nxp.com/docs/en/data-sheet/KL26P64M48SF5.pdf",
+  "keywords": "Kinetis KL26 ARM Cortex M0+",
+  "footprint": "Package_QFP:LQFP-64_10x10mm_P0.5mm",
+  "extends": "MKL26Z128VLH4",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-nxp-kinetis@master/parts/MKL26Z32VLH4/",
+  "part_path": "parts/MKL26Z32VLH4",
+  "symbol_file": "parts/MKL26Z32VLH4/MKL26Z32VLH4.kicad_sym",
+  "source_library": "MCU_NXP_Kinetis.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:07:27.544Z"
+}

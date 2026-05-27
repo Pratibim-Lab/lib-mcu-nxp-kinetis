@@ -1,0 +1,17 @@
+{
+  "id": "MCU_NXP_Kinetis/MKW41Z512VHT:MKW41Z512VHT",
+  "name": "MKW41Z512VHT",
+  "library": "MCU_NXP_Kinetis",
+  "file": "MCU_NXP_Kinetis.kicad_symdir/MKW41Z512VHT.kicad_sym",
+  "description": "Kinetis KW41Z-2.4 GHz, Arm Cortex-M0+, 512kB Flash, 128kB SRAM, Multi Mode: Bluetooth LE and 802.15.4 Wireless Radio and generic FSK, LQFN-48",
+  "datasheet": "https://www.nxp.com/docs/en/data-sheet/MKW41Z512.pdf",
+  "keywords": "Kinetis KW41Z ARM Cortex M0+",
+  "footprint": "Package_DFN_QFN:NXP_LQFN-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm_16xMask0.45x0.45_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-nxp-kinetis@master/parts/MKW41Z512VHT/",
+  "part_path": "parts/MKW41Z512VHT",
+  "symbol_file": "parts/MKW41Z512VHT/MKW41Z512VHT.kicad_sym",
+  "source_library": "MCU_NXP_Kinetis.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:07:27.729Z"
+}

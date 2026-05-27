@@ -1,0 +1,17 @@
+{
+  "id": "MCU_NXP_Kinetis/MKL05Z32VLF4:MKL05Z32VLF4",
+  "name": "MKL05Z32VLF4",
+  "library": "MCU_NXP_Kinetis",
+  "file": "MCU_NXP_Kinetis.kicad_symdir/MKL05Z32VLF4.kicad_sym",
+  "description": "Kinetis KL05 series, 48-MHz/32-bit ARM Cortex-M0+, 32 kB flash, 4 kB SRAM, LQFP-48",
+  "datasheet": "http://www.nxp.com/docs/en/data-sheet/KL05P48M48SF1.pdf",
+  "keywords": "Kinetis KL05 ARM Cortex M0+",
+  "footprint": "Package_QFP:LQFP-48_7x7mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-nxp-kinetis@master/parts/MKL05Z32VLF4/",
+  "part_path": "parts/MKL05Z32VLF4",
+  "symbol_file": "parts/MKL05Z32VLF4/MKL05Z32VLF4.kicad_sym",
+  "source_library": "MCU_NXP_Kinetis.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:07:27.273Z"
+}

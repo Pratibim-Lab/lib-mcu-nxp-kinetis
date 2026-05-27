@@ -1,0 +1,17 @@
+{
+  "id": "MCU_NXP_Kinetis/MKL43Z128VLH4:MKL43Z128VLH4",
+  "name": "MKL43Z128VLH4",
+  "library": "MCU_NXP_Kinetis",
+  "file": "MCU_NXP_Kinetis.kicad_symdir/MKL43Z128VLH4.kicad_sym",
+  "description": "Kinetis KL43 series, 48-MHz/32-bit ARM Cortex-M0+, 128 kB flash, 16 kB SRAM, USB FS Device (xtal-less), Segment LCD, FlexIO, LQFP-64",
+  "datasheet": "http://www.nxp.com/docs/en/data-sheet/KL43P64M48SF6.pdf",
+  "keywords": "Kinetis KL43 ARM Cortex M0+",
+  "footprint": "Package_QFP:LQFP-64_10x10mm_P0.5mm",
+  "extends": "MKL43Z256VLH4",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-nxp-kinetis@master/parts/MKL43Z128VLH4/",
+  "part_path": "parts/MKL43Z128VLH4",
+  "symbol_file": "parts/MKL43Z128VLH4/MKL43Z128VLH4.kicad_sym",
+  "source_library": "MCU_NXP_Kinetis.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:07:27.607Z"
+}
